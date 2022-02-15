@@ -43,7 +43,7 @@ function AudioPlay(name = new String()) {
 //     audio.currentTime = 0.01;
 //     audio.volume = 1;
 
-//     //Due to a bug in Firefox, the audio needs to be played after a delay
+// 
 //     setTimeout(function () {
 //         soundFile.play();
 //     }, 1);
